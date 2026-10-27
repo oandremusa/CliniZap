@@ -1,0 +1,6 @@
+{
+  "name": "CliniZap",
+  "description": "Sistema de gestão de pacientes, agenda clínica inteligente e automação de atendimento para profissionais de saúde.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
